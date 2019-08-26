@@ -6,6 +6,7 @@ import ExpenseService.Project.Project;
 import ExpenseService.Project.ProjectType;
 import org.assertj.core.api.Assert;
 import org.junit.jupiter.api.Assertions;
+import org.junit.*;
 
 import org.junit.jupiter.api.Test;
 
